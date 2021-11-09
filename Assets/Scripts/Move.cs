@@ -16,6 +16,8 @@ public class Move : MonoBehaviour
         //i see those changes
         //amazing!
         //so glad to be working with you, comrade
+
+        //by the way, how do you do games again
     }
 
     // Update is called once per frame
